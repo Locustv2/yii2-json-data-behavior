@@ -1,10 +1,10 @@
 # JsonData behavior for Yii2 ActiveRecords
 Enables you to easily encode and decode json in your activerecords. It automatically encodes before validating and saving to database and decodes after.
 
-[![Latest Stable Version](https://poser.pugx.org/locustv2/yii2-json-data-behavior/v/stable)](https://packagist.org/packages/locustv2/yii2-json-data-behavior)
-[![Total Downloads](https://poser.pugx.org/locustv2/yii2-json-data-behavior/downloads)](https://packagist.org/packages/locustv2/yii2-json-data-behavior)
-[![Latest Unstable Version](https://poser.pugx.org/locustv2/yii2-json-data-behavior/v/unstable)](https://packagist.org/packages/locustv2/yii2-json-data-behavior)
-[![License](https://poser.pugx.org/locustv2/yii2-json-data-behavior/license)](https://packagist.org/packages/locustv2/yii2-json-data-behavior)
+[![Latest Stable Version](https://poser.pugx.org/Locustv2/yii2-json-data-behavior/v/stable)](https://packagist.org/packages/Locustv2/yii2-json-data-behavior)
+[![Total Downloads](https://poser.pugx.org/Locustv2/yii2-json-data-behavior/downloads)](https://packagist.org/packages/Locustv2/yii2-json-data-behavior)
+[![Latest Unstable Version](https://poser.pugx.org/Locustv2/yii2-json-data-behavior/v/unstable)](https://packagist.org/packages/Locustv2/yii2-json-data-behavior)
+[![License](https://poser.pugx.org/Locustv2/yii2-json-data-behavior/license)](https://packagist.org/packages/Locustv2/yii2-json-data-behavior)
 
 
 ## Installation
